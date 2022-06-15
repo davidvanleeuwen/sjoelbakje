@@ -1,4 +1,4 @@
-# sjoelbakje - the lasercut
+# sjoelbakje
 
 A Dutch 🇳🇱 game, which usually is played with the family and during Easter or some other holiday. Check [Wikipedia](https://nl.wikipedia.org/wiki/Sjoelen) for more details. This is a very small (desktop size) version, which is made specifically for The Next Web as we wanted people to do something fun and Dutch at our (also very small) booth.
 
@@ -9,6 +9,14 @@ A Dutch 🇳🇱 game, which usually is played with the family and during Easter
 <img width="601" alt="Screenshot 2022-06-15 at 23 02 11" src="https://user-images.githubusercontent.com/238946/173929318-0910e240-f412-45e5-a437-d7e83b310cb7.png">
 
 ## Assemble 
+
+**Required:**
+
+- Lasercutter
+- Patience
+- 3mm (MDF) wood of 30mm x 30mm
+
+**Take into account:**
 
 - The parts only fit one way, please check before glueing them together.
 - We recommend use 10 cent (EUR) coins as disks.
