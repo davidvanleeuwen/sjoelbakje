@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Xcode 52 (60725) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch Xcode.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#000000" stroke-width="0.1" x="6" y="5" width="150" height="290"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" x="7.5" y="40" width="3" height="60"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(49.000000, 8.000000) rotate(-90.000000) translate(-49.000000, -8.000000) " x="47.5" y="-12" width="3" height="40"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(111.000000, 8.000000) rotate(-90.000000) translate(-111.000000, -8.000000) " x="109.5" y="-12" width="3" height="40"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" x="7.5" y="120" width="3" height="60"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" x="7.5" y="200" width="3" height="60"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" x="151.5" y="40" width="3" height="60"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" x="151.5" y="120" width="3" height="60"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" x="151.5" y="200" width="3" height="60"></rect>
+        <g id="Group-2" transform="translate(165.000000, 5.000000)" stroke="#000000" stroke-width="0.1">
+            <rect id="Rectangle-2" transform="translate(18.750000, 3.000000) rotate(-90.000000) translate(-18.750000, -3.000000) " x="17.25" y="-7" width="3" height="20"></rect>
+            <rect id="Rectangle-2" transform="translate(19.000000, 94.500000) rotate(-90.000000) translate(-19.000000, -94.500000) " x="17.5" y="84.5" width="3" height="20"></rect>
+            <rect id="Rectangle-2" transform="translate(25.000000, 204.000000) rotate(-180.000000) translate(-25.000000, -204.000000) " x="23.5" y="194" width="3" height="20"></rect>
+            <path d="M3,0 L33,0 L33,214 C29,230.561361 27,243.84139 27,253.840088 C27,263.838786 27,275.89209 27,290 L3,290 L3,255 L0,255 L0,195 L3,195 L2.95512997,175 L0,175 L0,115 L3,115 L3,95 L0,95 L0,35 L3,35 L3,0 Z" id="Rectangle"></path>
+        </g>
+        <g id="Group-2" transform="translate(210.000000, 5.000000)" stroke="#000000" stroke-width="0.1">
+            <rect id="Rectangle-2" transform="translate(18.000000, 3.000000) rotate(-90.000000) translate(-18.000000, -3.000000) " x="16.5" y="-7" width="3" height="20"></rect>
+            <rect id="Rectangle-2" transform="translate(18.000000, 94.250000) rotate(-90.000000) translate(-18.000000, -94.250000) " x="16.5" y="84.25" width="3" height="20"></rect>
+            <rect id="Rectangle-2" transform="translate(25.000000, 204.000000) rotate(-180.000000) translate(-25.000000, -204.000000) " x="23.5" y="194" width="3" height="20"></rect>
+            <path d="M3,0 L33,0 L33,214 C29,230.561361 27,243.84139 27,253.840088 C27,263.838786 27,275.89209 27,290 L3,290 L3,255 L0,255 L0,195 L3,195 L2.95512997,175 L0,175 L0,115 L3,115 L3,95 L0,95 L0,35 L3,35 L3,0 Z" id="Rectangle"></path>
+        </g>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(116.500000, 70.750000) rotate(-360.000000) translate(-116.500000, -70.750000) " x="115" y="55.5" width="3" height="30.5"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(80.000000, 70.750000) rotate(-360.000000) translate(-80.000000, -70.750000) " x="78.5" y="55.5" width="3" height="30.5"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(116.500000, 31.250000) rotate(-360.000000) translate(-116.500000, -31.250000) " x="115" y="16" width="3" height="30.5"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(80.000000, 31.250000) rotate(-360.000000) translate(-80.000000, -31.250000) " x="78.5" y="16" width="3" height="30.5"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(43.500000, 70.750000) rotate(-360.000000) translate(-43.500000, -70.750000) " x="42" y="55.5" width="3" height="30.5"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(42.750000, 99.500000) rotate(-90.000000) translate(-42.750000, -99.500000) " x="41.25" y="95.5" width="3" height="8"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(79.250000, 99.500000) rotate(-90.000000) translate(-79.250000, -99.500000) " x="77.75" y="95.5" width="3" height="8"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(115.750000, 99.500000) rotate(-90.000000) translate(-115.750000, -99.500000) " x="114.25" y="95.5" width="3" height="8"></rect>
+        <rect id="Rectangle-2" stroke="#000000" stroke-width="0.1" transform="translate(43.500000, 31.250000) rotate(-360.000000) translate(-43.500000, -31.250000) " x="42" y="16" width="3" height="30.5"></rect>
+        <g id="Group" transform="translate(273.500000, 78.500000) rotate(-360.000000) translate(-273.500000, -78.500000) translate(256.500000, 5.000000)" stroke="#000000" stroke-width="0.1">
+            <rect id="Rectangle-2" transform="translate(18.500000, 36.000000) rotate(-270.000000) translate(-18.500000, -36.000000) " x="17" y="26" width="3" height="20"></rect>
+            <rect id="Rectangle-2" transform="translate(18.500000, 72.500000) rotate(-270.000000) translate(-18.500000, -72.500000) " x="17" y="62.5" width="3" height="20"></rect>
+            <rect id="Rectangle-2" transform="translate(18.500000, 109.000000) rotate(-270.000000) translate(-18.500000, -109.000000) " x="17" y="99" width="3" height="20"></rect>
+            <polygon id="Rectangle" points="3.5 3 8.5 3 8.5 0 28.5 0 28.5 3 33.5 3 33.5 143.995117 28.5 143.995117 28.5 147 8.5 147 8.5 143.995117 3.5 143.995117 3.5 123.495209 0.5 123.495209 0.5 83.5 3.5 83.5 3.5 61.4960937 0.5 61.5014648 0.5 21.5 3.5 21.4960937"></polygon>
+        </g>
+    </g>
+</svg>
